@@ -1,0 +1,10 @@
+{
+  "id": "animal-island-calendar",
+  "name": "Animal Island Calendar",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Choose dates and times for note Properties with a cozy paper-style picker.",
+  "author": "Tiffany Iong",
+  "isDesktopOnly": false,
+  "authorUrl": "https://github.com/tiffanyiong"
+}
