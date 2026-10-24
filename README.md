@@ -1,10 +1,10 @@
 # Animal Island Calendar
 
-A cozy paper-style date and time picker for Obsidian note Properties. Works on its own, and coordinates with [Animal Island Cozy](https://github.com/tiffanyiong/obsidian-animal-island).
+A cozy paper-style date and time picker for Obsidian note Properties. Works on its own, and coordinates with [Animal Island Cozy](https://community.obsidian.md/themes/animal-island-notes).
 
 ## Related theme: Animal Island Cozy
 
-For matching app palettes, ribbon titles, paper backgrounds, tables, code blocks and tags, use the **[Animal Island Cozy theme](https://github.com/tiffanyiong/obsidian-animal-island)**. See its [installation and style guide](https://github.com/tiffanyiong/obsidian-animal-island#installation), [繁體中文 guide](https://github.com/tiffanyiong/obsidian-animal-island/blob/main/README.zh-TW.md), and [Obsidian theme listing](https://community.obsidian.md/themes/animal-island-notes).
+For matching app palettes, ribbon titles, paper backgrounds, tables, code blocks and tags, use the **[Animal Island Cozy theme](https://community.obsidian.md/themes/animal-island-notes)**. See its [installation and style guide](https://github.com/tiffanyiong/obsidian-animal-island#installation), [繁體中文 guide](https://github.com/tiffanyiong/obsidian-animal-island/blob/main/README.zh-TW.md), and [Obsidian theme listing](https://community.obsidian.md/themes/animal-island-notes).
 
 Install the theme and calendar separately. This plugin works without the theme; the theme works without the plugin. Combining them also enables the theme’s independent settings-language choice when Style Settings is installed. Report calendar issues in this repository and theme styling issues in the theme repository.
 
