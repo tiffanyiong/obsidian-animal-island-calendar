@@ -46,3 +46,14 @@ Plain CommonJS JavaScript; `main.js` is both source and the release entry point.
 ## License
 
 MIT; see [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## Related theme & plugins
+
+Optional companions for your Obsidian vault:
+
+| Project | Type | What it adds |
+| --- | --- | --- |
+| [Animal Island Cozy](https://github.com/tiffanyiong/obsidian-animal-island) | Theme | Warm colors, paper backgrounds, and customizable visual styles. |
+| [Easy Text Highlighter](https://github.com/tiffanyiong/easy-text-highlighter) | Plugin | Highlight Markdown and PDF text, collect excerpts, and export them. |
+
+The plugins also work with other themes; Animal Island Cozy is optional.
